@@ -11,6 +11,7 @@ end
 def bark
   puts "woof!"
 end
+end
 
 jomo = Dog.new 
 jomo.name = "Jomo"
