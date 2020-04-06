@@ -8,3 +8,8 @@ def name
   @this_dogs_name
 end
 end
+
+jomo = Dog.new 
+jomo.name = "Jomo"
+
+puts jomo.name
